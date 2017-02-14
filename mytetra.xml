@@ -4,9 +4,11 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="14870621271h65s5icim" name="*nix hints">
-   <recordtable>
-    <record id="1487062585qlml6kodhk" name="Архивирование с расширенными аттрибутами" author="" url="" tags="tar acl xattrs ping" ctime="20170214155625" dir="1487062585egpp7mls5d" file="text.html"/>
-   </recordtable>
+   <node crypt="" id="1487062684y6ffr1k80p" name="System">
+    <recordtable>
+     <record id="1487062585qlml6kodhk" name="Архивирование с расширенными аттрибутами" author="" url="" tags="tar acl xattrs ping" ctime="20170214155957" dir="1487062585egpp7mls5d" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
