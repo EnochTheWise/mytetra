@@ -6,6 +6,7 @@
   <node crypt="" id="14870621271h65s5icim" name="*nix hints">
    <node crypt="" id="1487062684y6ffr1k80p" name="System">
     <recordtable>
+     <record id="1487063755g7yxhntoyc" name=".vimrc" author="" url="" tags=".vimrc vimrc" ctime="20170214161555" dir="1487063755crlgrmvm2j" file="text.html"/>
      <record id="1487062585qlml6kodhk" name="Архивирование с расширенными аттрибутами" author="" url="" tags="tar acl xattrs ping" ctime="20170214155957" dir="1487062585egpp7mls5d" file="text.html"/>
     </recordtable>
    </node>
