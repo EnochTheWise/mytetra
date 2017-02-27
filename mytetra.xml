@@ -12,7 +12,8 @@
    <node crypt="" id="1487062684y6ffr1k80p" name="System">
     <recordtable>
      <record id="1487062585qlml6kodhk" name="Архивирование с расширенными аттрибутами" author="" url="" tags="tar acl xattrs ping" ctime="20170214155957" dir="1487062585egpp7mls5d" file="text.html"/>
-     <record id="14881635026zr47hx7hs" name="Оптимизация ipset" author="" url="" tags="" ctime="20170227094502" dir="1488163502lh6240wqe9" file="text.html"/>
+     <record id="14881635026zr47hx7hs" name="Оптимизация ipset" author="" url="" tags="ipset" ctime="20170227094502" dir="1488163502lh6240wqe9" file="text.html"/>
+     <record id="14881678185l8hu2mmqd" name="Сортировка IPv4 адресов" author="" url="" tags="ip sort" ctime="20170227105658" dir="1488167818py73ndsqnq" file="text.html"/>
     </recordtable>
    </node>
   </node>
